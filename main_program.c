@@ -1,13 +1,4 @@
 /*
-Program Proyek Akhir
-Mata Kuliah Algoritma & Pemrograman
-Sistem Reservasi Jadwal Praktikum
-Nama/NPM Angggota Kelompok : 
-1. Anthony Ivan Sunardi / 1306405111 
-2. Rahmad Nurcahya / 1306369806
-*/
-
-/*
 Praktikum dijalankan selama 1 bulan atau 4 minggu. Setiap kelompok yang terdiri dari 2 orang harus memasukan dulu data-datanya pada program, 
 termasuk jadwal lab kelompok tersebut setiap minggunya. 
 Setiap kelompok harus mengambil 1 modul setiap minggunya, tidak boleh lebih atau kurang dari 1. 
@@ -136,7 +127,7 @@ void title(int* status, int size){
 	if(status[9]==0){
 		printf("=============PROGRAM RESERVASI JADWAL PRAKTIKUM=============");
  		printf("\n\nTujuan = Menfasilitasi Mahasiswa dalam Reservasi Jadwal Praktikum");
-		printf("\n\nLABORATORIUM KENDALI TEGANGAN TINGGI\n\n");		
+		printf("\n\nLABORATORIUM KENDALI TEGANGAN TINGGI\n\n");//Nama dari kelas		
 	}
 	else if(status[9]==1){
 		printf("=============PROGRAM RESERVASI JADWAL PRAKTIKUM=============");
