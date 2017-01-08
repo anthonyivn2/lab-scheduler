@@ -2,7 +2,7 @@
 This is a program i wrote to make a scheduler for laboratories / workshops that will have a lot of groups of students coming in and doing classes within these laboratories / workshops
 
 This program is written using the C programming language,and was originally written by Anthony Ivan Sunardi and Rahmad Nurcahya
-This program was originally made for a final project for an undergraduate class about algorithms and programming
+.This program was originally made for a final project for an undergraduate class about algorithms and programming
 
 Things that this program lacks:
 
